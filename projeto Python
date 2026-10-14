@@ -1,0 +1,42 @@
+# 🐍 Meu Primeiro Projeto Python
+
+## 📌 Sobre o projeto
+
+Este é meu primeiro projeto desenvolvido em Python, utilizando a função `print()` para exibir informações no terminal.
+
+O objetivo é praticar os conceitos iniciais de programação e desenvolver minha lógica de programação.
+
+## 🎯 O que estou aprendendo
+
+- Fundamentos da linguagem Python
+- Utilização da função `print()`
+- Exibição e organização de informações
+- Desenvolvimento de projetos no VS Code
+- Publicação de códigos no GitHub
+
+## 🛠️ Tecnologias utilizadas
+
+- Python
+- Visual Studio Code
+- GitHub
+
+## ▶️ Como executar
+
+1. Baixe ou clone este repositório.
+2. Abra a pasta do projeto no VS Code.
+3. Abra o terminal.
+4. Execute o comando:
+
+```bash
+python main.py
+```
+
+No Windows, você também pode tentar `py main.py`.
+
+## 📚 Minha jornada
+
+Este projeto faz parte da minha jornada de aprendizado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de habilidades em Python e Engenharia de Dados.
+
+Estou evoluindo passo a passo, construindo projetos e colocando em prática os conhecimentos adquiridos nos estudos.
+
+**Meu objetivo é continuar aprendendo e desenvolver projetos cada vez mais completos!** 🚀
