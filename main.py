@@ -1,0 +1,13 @@
+
+print("==============================")
+print("     MEU PERFIL PROFISSIONAL")
+print("==============================")
+print("Nome: Matheus Ramos")
+print("Curso: Analise e Desenvolvimento de Sistemas")
+print("Area: Engenharia de Dados")
+print("Linguagem: Python")
+print("Ferramenta: VS Code")
+print("Objetivo: Trabalhar com dados")
+print("==============================")
+print("Um passo de cada vez!")
+print("Meu objetivo e me tornar Engenheiro de Dados!")
